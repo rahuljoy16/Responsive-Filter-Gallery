@@ -1,2 +1,2 @@
-# Responsive-Filter-Gallery
-This is a Responsive Portfolio Filter Gallery 
+## General Info
+This is a Responsive Portfolio Filter Gallery made using HTML, CSS & JavaScript 
